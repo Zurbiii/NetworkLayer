@@ -8,7 +8,7 @@
 public protocol ErrorProtocol {
     
     var sourceName: String { get }
-    var description: String { get }
+    var description: String { get } 
     
 }
 
