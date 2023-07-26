@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum APIError {
+public enum APIError {
     
     case urlNotValid
     case noData
